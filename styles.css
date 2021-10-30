@@ -72,6 +72,6 @@ aside {
     color: black;
 }
 
-.aside-text {
-    
+.chuchu {
+    display: flex;
 }
